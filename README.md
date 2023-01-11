@@ -6,8 +6,9 @@ This app allows users to bid on iPhones. The app has a clean, user-friendly inte
 
 ## Screenshots
 
-![screenshot1](https://raw.githubusercontent.com/hiafraan/iPhone_Bidding_App-React_Native/master/screenshots/screenshot1.jpg)
-![screenshot2](https://raw.githubusercontent.com/hiafraan/iPhone_Bidding_App-React_Native/master/screenshots/screenshot2.jpg)
+![screenshot1](https://raw.githubusercontent.com/hiafraan/iPhone_Bidding_App-React_Native/master/screenshots/screenshot1.jpg | width=360)
+
+![screenshot2](https://raw.githubusercontent.com/hiafraan/iPhone_Bidding_App-React_Native/master/screenshots/screenshot2.jpg | width=360)
 
 ## Installation
 
@@ -15,6 +16,9 @@ This app allows users to bid on iPhones. The app has a clean, user-friendly inte
 
 ```
 git clone https://github.com/hiafraan/iPhone_Bidding_App-React_Native.git
+```
+
+```
 cd iphone-bidding-app
 ```
 
@@ -42,9 +46,9 @@ npm start
 
 ### References
 
-https://reactnative.dev/docs/environment-setup
-https://reactnavigation.org/docs/getting-started/
-https://reactnavigation.org/docs/stack-navigator/
-https://docs.expo.dev/versions/latest/sdk/font/
-https://reactnative.dev/docs/flatlist
-https://docs.expo.dev/build/setup/
+- [ ] https://reactnative.dev/docs/environment-setup
+- [ ] https://reactnavigation.org/docs/getting-started/
+- [ ] https://reactnavigation.org/docs/stack-navigator/
+- [ ] https://docs.expo.dev/versions/latest/sdk/font/
+- [ ] https://reactnative.dev/docs/flatlist
+- [ ] https://docs.expo.dev/build/setup/
