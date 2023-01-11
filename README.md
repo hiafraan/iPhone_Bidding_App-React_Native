@@ -6,9 +6,9 @@ This app allows users to bid on iPhones. The app has a clean, user-friendly inte
 
 ## Screenshots
 
-![screenshot1](https://raw.githubusercontent.com/hiafraan/iPhone_Bidding_App-React_Native/master/screenshots/screenshot1.jpg | width=360)
+![screenshot1](https://raw.githubusercontent.com/hiafraan/iPhone_Bidding_App-React_Native/master/screenshots/screenshot1.jpg =360x740)
 
-![screenshot2](https://raw.githubusercontent.com/hiafraan/iPhone_Bidding_App-React_Native/master/screenshots/screenshot2.jpg | width=360)
+![screenshot2](https://raw.githubusercontent.com/hiafraan/iPhone_Bidding_App-React_Native/master/screenshots/screenshot2.jpg =360x740)
 
 ## Installation
 
