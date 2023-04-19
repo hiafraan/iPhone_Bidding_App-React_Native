@@ -4,12 +4,6 @@
 
 This app allows users to bid on iPhones. The app has a clean, user-friendly interface and allows for easy browsing and bidding on available iPhones. The app is compatible with both Android and iOS platforms and it's built with Expo Go.
 
-## Screenshots
-
-<img src="https://raw.githubusercontent.com/hiafraan/iPhone_Bidding_App-React_Native/master/screenshots/screenshot1.jpg" width="200">
-
-<img src="https://raw.githubusercontent.com/hiafraan/iPhone_Bidding_App-React_Native/master/screenshots/screenshot2.jpg" width="200">
-
 ## Installation
 
 1. Clone the repository and navigate to the project directory.
@@ -52,3 +46,8 @@ npm start
 - [ ] https://docs.expo.dev/versions/latest/sdk/font/
 - [ ] https://reactnative.dev/docs/flatlist
 - [ ] https://docs.expo.dev/build/setup/
+
+https://user-images.githubusercontent.com/92703034/233051725-5bd750b8-989b-4160-92e4-63a5e974c3fb.mp4
+
+
+
